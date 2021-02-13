@@ -1,0 +1,1 @@
+addSbtPlugin("technology.kapp" % "cnfgr-installer" % "0.0.1-SNAPSHOT")

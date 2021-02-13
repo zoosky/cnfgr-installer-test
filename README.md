@@ -4,4 +4,3 @@ Run
 
     sbt cnfgrInstall
 
-# cnfgr-installer-test
